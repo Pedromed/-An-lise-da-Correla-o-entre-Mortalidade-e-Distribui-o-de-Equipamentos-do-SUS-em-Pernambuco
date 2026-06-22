@@ -30,7 +30,7 @@ Arquivo Power BI (.pbix)
 
 As bases utilizadas no dashboard não está hospedado diretamente neste repositório devido ao tamanho do arquivo.
 
-Acesse pelo link: [Bases Utilizadas]([url](https://drive.google.com/drive/folders/1t1AZiAU5GDlal-vLQ-UWG-LAcDse4XwI?usp=sharing))
+Acesse pelo link:https://drive.google.com/drive/folders/1t1AZiAU5GDlal-vLQ-UWG-LAcDse4XwI?usp=sharing
 
 Autor
 
